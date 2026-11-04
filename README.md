@@ -2,6 +2,8 @@
 
 > GitHub README pages use GitHub's own theme. Download `index.html` and open it in a browser to see the full starfield design.
 
+<p align="center"><img src="assets/gpu-banner.png" width="100%" alt="GPU Cluster Orchestration: SLURM, Kubernetes, NVIDIA GPUs, NVLink and InfiniBand, checkpointing, over a starry Milky Way"></p>
+
 # Understanding GPU Cluster Orchestration
 
 <p align="center"><img src="assets/gpu-orchestration.gif" width="100%" alt="Animated diagram: jobs flow from submission through a Kubernetes control plane to two GPU worker nodes linked by NVLink and InfiniBand, with shared checkpoint storage, a five-stage lifecycle and a GPU fault being handled"></p>
