@@ -1,3 +1,7 @@
+[🌌 View the black-and-Milky-Way themed page](index.html) · [Open HTML source](https://github.com/hassankx/gpu-cluster-orchestration/blob/main/index.html)
+
+> GitHub README pages use GitHub's own theme. Download `index.html` and open it in a browser to see the full starfield design.
+
 # Understanding GPU Cluster Orchestration
 
 <p align="center"><img src="assets/gpu-orchestration.gif" width="100%" alt="Animated diagram: jobs flow from submission through a Kubernetes control plane to two GPU worker nodes linked by NVLink and InfiniBand, with shared checkpoint storage, a five-stage lifecycle and a GPU fault being handled"></p>
